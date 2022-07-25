@@ -1,0 +1,33 @@
+{
+  "name": "sh-request-builder",
+  "version": "1.0.0",
+  "description": "This is a simple implementation of the axios.",
+  "main": "src/RequestBuilder.js",
+  "dependencies": {
+    "asynckit": "^0.4.0",
+    "axios": "^0.27.2",
+    "combined-stream": "^1.0.8",
+    "delayed-stream": "^1.0.0",
+    "follow-redirects": "^1.15.1",
+    "form-data": "^4.0.0",
+    "mime-db": "^1.52.0",
+    "mime-types": "^2.1.35"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shahabes/sh-request-builder.git"
+  },
+  "keywords": [
+    "axios",
+    "requestBuilder"
+  ],
+  "author": "Shahab.es",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shahabes/sh-request-builder/issues"
+  },
+  "homepage": "https://github.com/shahabes/sh-request-builder#readme"
+}
